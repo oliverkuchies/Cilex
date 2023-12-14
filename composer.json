@@ -23,9 +23,9 @@
         "php"                      : ">=7.3",
         "pimple/pimple"            : "^3.0",
         "silex/api"                : "^2.0",
-        "symfony/process"          : "^5.0",
+        "symfony/process"          : ">=4.2",
         "symfony/console"          : ">=4.2",
-        "symfony/event-dispatcher" : "^5.0"
+        "symfony/event-dispatcher" : ">=4.2"
     },
 
     "require-dev" : {
